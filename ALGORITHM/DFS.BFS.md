@@ -41,7 +41,7 @@
 
 <br>
 
-# BFS | Breath First Search
+# BFS | Breadth First Search
 **Queue + Graph** 자료구조 기반의 완전탐색 알고리즘
 
 Queue를 이용하여 자연스럽게 인접한 노드부터 방문할 수 있다.  
