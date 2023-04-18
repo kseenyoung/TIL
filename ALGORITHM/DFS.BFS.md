@@ -12,6 +12,8 @@
 문제 해결법
 - 알고리즘 서적 <이것이 취업을 위한 코딩 테스트다 with Python> DFS/BFS 학습 중
 
+- [Backtracking](Backtracking.md) 알고리즘의 근간이 되는 기법
+
 
 
 <br>
@@ -36,8 +38,8 @@
 # DFS | Deep First Search
 **Stack + Graph** 자료구조 기반의 완전탐색 알고리즘  
 
-
 가장 깊은 노드까지 갔다가 돌아오며 방문하지 않은 노드들을 방문한다.  
+[Backtracking](Backtracking.md) 알고리즘의 근간이 되는 기법  
 
 <br>
 
@@ -45,5 +47,5 @@
 **Queue + Graph** 자료구조 기반의 완전탐색 알고리즘
 
 Queue를 이용하여 자연스럽게 인접한 노드부터 방문할 수 있다.  
-Python이라면 [deque] 라이브러리를 사용하는 것이 좋다.  
+Python으로 구현시 [deque] 라이브러리를 사용하는 것이 좋다.  
 일반적인 경우 DFS보다 수행시간이 좋은 편이다.  
