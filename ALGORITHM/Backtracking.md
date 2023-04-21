@@ -14,4 +14,5 @@
 # 문제 유형 
 
 - N-Queen
-
+    - 문제 풀어보기 : [Baekjoon](https://www.acmicpc.net/problem/9663),  [Programmers](https://school.programmers.co.kr/learn/courses/30/lessons/12952), [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV7GKs06AU0DFAXB)
+    - 문제 풀이 : [Baekjoon](https://seen-young.tistory.com/50), [SWEA](https://seen-young.tistory.com/57)
