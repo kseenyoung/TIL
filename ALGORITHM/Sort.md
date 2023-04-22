@@ -27,6 +27,7 @@
 시간복잡도 : O(N<sup>2</sup>)  
 
 - 배열의 처음부터 끝까지 두 수(a, b)를 선택한 뒤 정렬되어 있지 않으면 두 수의 위치를 변경한다.
+- [구현 코드 보러 가기](https://github.com/kseenyoung/coding-test-with-python/blob/main/정렬/Bubble%20Sort.py)
 
 ![1*0aPxBKrbMTVbF0UCI6gxZg](https://user-images.githubusercontent.com/65147869/233764423-1c701a84-bf4c-4f54-8624-44e10b455e80.gif)
 
@@ -46,6 +47,7 @@
 
 - N + (N-1) + (N-2) + ... + 1 = N*(N-1)/2 (등차수열의 합 공식) 이므로 O(N<sup>2</sup>)
 - 정렬되지 않은 데이터 중 가장 작은(큰) 수를 정렬된 수들 가장 뒤에 붙여가며 정렬한다.
+- [구현 코드 보러 가기](https://github.com/kseenyoung/coding-test-with-python/blob/main/%EC%A0%95%EB%A0%AC/Selection%20Sort.py)
 
 ![img](https://user-images.githubusercontent.com/65147869/233765223-a2060a2a-7928-4a1e-8eea-d2429289c049.gif)
 
@@ -62,6 +64,7 @@
 
 - **맨 처음 데이터와 정렬할 차례가 된 수의 앞은 항상 정렬**되어 있다고 가정하고 시작한다.  
 - 데이터를 순서대로 방문하며 앞의 수가 본인보다 작을 때까지 앞 숫자와 순서를 바꾼다.
+- [구현 코드 보러 가기](https://github.com/kseenyoung/coding-test-with-python/blob/main/%EC%A0%95%EB%A0%AC/Insertion%20Sort.py)
 
 ![1*JP-wURjwf4k23U2G3GNQDw](https://user-images.githubusercontent.com/65147869/233765261-fae8f5ae-c6a0-40b4-b7f9-6da056203e4a.gif)
 
@@ -78,6 +81,8 @@
 - 가장 많이 사용되는 정렬 알고리즘. 프로그래밍 언어 정렬 라이브러리의 근간이기도 하다.
 - 최악의 시간복잡도 O(N<sup>2</sup>)는 내림차순이나 올림차순으로 이미 정렬이 되어 있는 경우 발생
 - 피벗 수를 하나 특정하여 정렬되지 않은 수들 중 **피벗보다 작은 숫자를 왼쪽**에서 부터 찾고 **피벗보다 큰 수를 오른쪽**에서 부터 찾는다.
+- [구현 코드 보러 가기](https://github.com/kseenyoung/coding-test-with-python/blob/main/%EC%A0%95%EB%A0%AC/Quick%20Sort.py)
+
 <br>
 
 ![image](https://user-images.githubusercontent.com/65147869/233765514-380d7b1e-8c6f-469a-aab2-caa4fc54e090.gif)
