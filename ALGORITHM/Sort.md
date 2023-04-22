@@ -13,6 +13,7 @@
 - [삽입 정렬(Insertion Sort)](#insertion-sort--삽입-정렬)
 - [퀵 정렬(Quick Sort)](#quick-sort--퀵-정렬)
 - [병합 정렬(Merge Sort)](#merge-sort--병합-정렬)
+- [계수 정렬(Counting Sort)](#counting-sort--계수-정렬)
 
 <br>
 
@@ -104,6 +105,31 @@
 
 
 
+<br>
+
+
+## Counting Sort | 계수 정렬
+데이터의 최대값이 K일 때 <br>
+시간복잡도 : O(N + K)  
+공간복잡도 : O(N + K)
+
+
+- 다른 정렬 알고리즘들고 다르게 데이터끼리 비교 연산을 하지 않는다.
+- 모든 데이터가 정수값을 가지면서 최소값과 최대값의 차이가 크지 않을 때 효율적이다.
+- 최소값부터 최대값의 차이만큼의 리스트(또는 배열)를 0으로 초기화한다.
+- 모든 데이터르 방문하며 해당 하는 인덱스 배열에 삽입한다.
+- 이후 리스트의 값이 0이 아닌 인덱스 번호를 해당 값만큼 반복하여 출력한다.
+
+<br>
+
+![img-2](https://user-images.githubusercontent.com/65147869/233770718-e55f12f1-db0e-4003-ba71-8c75145c6d3d.gif)
+
+
+
+
+
+
+
 
 
 <br><br>
@@ -124,3 +150,4 @@ Python의 'sort', 'sorted' 함수의 정렬 알고리즘이다.
 *삽입 정렬 : https://thinkdiff.net/insertion-sort-swift-db14b9a79016*  
 *퀵 정렬 : https://velog.io/@yun8565*  
 *합병 정렬 : https://velog.io/@yun8565*  
+*계수 정렬 : https://herong.tistory.com/entry/계수정렬Counting-Sort*
