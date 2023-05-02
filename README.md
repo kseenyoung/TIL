@@ -51,7 +51,7 @@
 <br>
 
 ## JAVA | 자바
-[다형성(polymorphism).md](다형성(polymorphism).md)
+[다형성(polymorphism)](JAVA/다형성(polymorphism).md)
 
 
 <br>
