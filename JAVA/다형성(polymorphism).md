@@ -1,6 +1,6 @@
 # 다형성 | Polymorphism
 하나의 객체가 다양한 타입으로 변경가능한 OOP의 특징  
-[오버로딩](#오버로딩--Overloading), [오버라이딩](#오버라이딩--Overriding), [형변환](#형변환--implicit Conversion)이 대표적이다.
+[오버로딩](#오버로딩--Overloading), [오버라이딩](#오버라이딩--Overriding), [형변환](#형변환--implicit-Conversion)이 대표적이다.
 
 
 [🔖 블로그 정리 글](https://seen-young.tistory.com/65)
@@ -83,7 +83,7 @@
   - 0.1 같이 이진수로 표현하여 순한소수가 되는 것은 Float로 저장시 누락되는 수가 많아 오차범위가 커지기 때문
 ```
   
-<br>
+<br><br>
 
 ### (명시적 형변환) 강제 형변환 | Casting
 사용자가 지정한 타입으로 해당 변수 타입을 강제 변환하는 것  
