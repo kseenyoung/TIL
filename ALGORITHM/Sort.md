@@ -2,7 +2,7 @@
 데이터를 특정한 기준에 따라서 순서대로 나열하는 것
 - 각 정렬 알고리즘의 시간복잡도를 비교하는데, **시간복잡도**에 대해 학습이 필요하신 분은 [여기](https://seen-young.tistory.com/46#c2)를 참고하세요
 
-![img_1.png](img_1.png)
+![image](https://gmlwjd9405.github.io/images/algorithm-quick-sort/sort-time-complexity.png)
 
 
 <br>
