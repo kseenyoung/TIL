@@ -8,14 +8,15 @@
 - [DFS/BFS](ALGORITHM/DFS.BFS.md)
 - [Recursive](ALGORITHM/Recursive.md)
 - [Sort](ALGORITHM/Sort.md)
+- [ShortestPath](ALGORITHM/ShortestPath.md)
 
 
 <br>
 
 ## DATA STRUCTURE | 자료구조
-- [Stack](DATASTRUCTURE/Stack.md)
-- [Queue](DATASTRUCTURE/Queue.md)
-- [Graph](DATASTRUCTURE/Graph.md)
+- [Stack](DATA STRUCTURE/Stack.md)
+- [Queue](DATA STRUCTURE/Queue.md)
+- [Graph](DATA STRUCTURE/Graph.md)
 
 
 
