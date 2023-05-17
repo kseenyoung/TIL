@@ -17,6 +17,8 @@
 - [Stack](DATA STRUCTURE/Stack.md)
 - [Queue](DATA STRUCTURE/Queue.md)
 - [Graph](DATA STRUCTURE/Graph.md)
+- [Tree](DATA STRUCTURE/Tree.md)
+- [서로소 집합](DATA STRUCTURE/서로소 집합.md)
 
 
 
