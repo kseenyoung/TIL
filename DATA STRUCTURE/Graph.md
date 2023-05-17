@@ -1,10 +1,21 @@
 # Graph
 **"정점(node)과 정점들을 연결하는 간선(edge)으로 구성된 자료구조"**  
 [Tree(트리)](./Tree.md) 자료구조는 그래프에 속한다.
-
 <br>
 
-*교내 알고리즘 교재 chapter 15 참고*
+
+**목차**  
+[Graph 구성](#graph-구성)  
+[Graph 용어](#graph-용어)  
+[Graph 종류](#graph-종류)  
+[Graph 표현 방법](#graph-표현-방법)  
+<br>
+
+**그래프 활용**  
+[서로소 집합](서로소 집합.md)  
+[크루스칼 알고리즘](../ALGORITHM/크루스칼 알고리즘.md)
+
+<br>
 
 ## Graph 구성
 정점(node, vertex) : 값을 가지는 단위  
@@ -67,7 +78,15 @@
 ![img_3.png](img_3.png)
 </div>
 </div>
-<br>
-<br>
 
-*이미지 출처 : https://suyeon96.tistory.com/*
+
+
+
+
+<br><br>
+
+*이미지 출처 : https://suyeon96.tistory.com/*  
+
+**참고 자료**  
+교내 알고리즘 교재 chapter 15  
+<이것이 취업을 위한 코딩테스트다> 서적 chapter 10
