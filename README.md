@@ -29,7 +29,7 @@
 <br>
 
 ## DATABASE | 데이터베이스
-
+- [데이터베이스 정규화](DATABASE/정규화(Normalization).md)
 
 
 
@@ -52,7 +52,7 @@
 <br>
 
 ## JAVA | 자바
-
+- [다형성(polymorphism)](JAVA/다형성(polymorphism).md)
 
 
 <br>
