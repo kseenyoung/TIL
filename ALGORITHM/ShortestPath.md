@@ -30,4 +30,4 @@ V가 정점(노드)의 개수일 때 **O(V<sup>3</sup>)** 시간 복잡도를 �
 다익스트라 알고리즘에서 인접 리스트를 사용하는 것과 달리 **인접 행렬**를 사용한다.
 
 플로이드 워셜 알고리즘을 사용하기 위해서 다음 점화식만 기억하면 된다.  
-**D<sub>ab</sub> = min(D<sub>ab</sub> , D<sub>ak</sub> + D<sub>ab</sub>)**
+**D<sub>ab</sub> = min(D<sub>ab</sub> , D<sub>ak</sub> + D<sub>kb</sub>)**
